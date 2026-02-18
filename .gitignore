@@ -4,3 +4,4 @@ __pycache__/
 .ipynb_checkpoints/
 rfm_output.csv
 vip_customers.csv
+retail.csv
