@@ -78,4 +78,4 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn streamlit jupyte
 
 ## Author
 
-**Anitha Reddy Bapathu** · M.S. Computer Science, University at Albany, SUNY
+**Anitha Reddy Bapathu** 
